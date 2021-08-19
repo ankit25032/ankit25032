@@ -6,13 +6,13 @@
 
 - 👯 I’m looking to collaborate on **anything free and open source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gargakshit](https://github.com/ankit25032)
+- 👨‍💻 All of my projects are available at [https://github.com/ankit25032](https://github.com/ankit25032)
 
 - 💬 Ask me about **React, React Native, Node and Data Structure And Algorithm**
 
-- 🧠 I am currently learning **F#,Kotlin and Java**
+- 🧠 I am currently learning **Kotlin and Java**
 
-- 📫 How to reach me ****
+- 📫 How to reach me as.ankit2503@gmail.com****
 
 - ⚡ Fun fact **I love functional programming, cryptography,Ethical Hacking and cats 😻**
 
